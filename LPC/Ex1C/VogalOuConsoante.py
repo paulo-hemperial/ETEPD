@@ -1,3 +1,4 @@
+#É vogal ou não é? Maoe hihi
 def v(x):
   vogal = 'aáãàâäåæªéèêēęėëeiîíìīïįoõôòóºōøöœüúûùūu'
   consoante = ('bcdfghjklmnpqrstvwxyz')
