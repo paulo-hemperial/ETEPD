@@ -1,4 +1,4 @@
-///Repositório para exércicios de Linguagem de Programação Computacional.
+///Repositório para exércicios de Linguagem de Programação Computacional./n
 ///Repositório para exércicios de Linguagem de Programação Computacional.
 ///Repositório para exércicios de Linguagem de Programação Computacional.
 ///Repositório para exércicios de Linguagem de Programação Computacional.
