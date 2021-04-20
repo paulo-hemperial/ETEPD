@@ -1,2 +1,5 @@
-*Repositório para exércicios de Linguagem de Programação Computacional./n*\n
-_Sinta-se livre para usar e aprimorar os codigos_
+*Repositório para exércicios de Linguagem de Programação Computacional.
+
+
+
+*Sinta-se livre para usar e aprimorar os codigos*
