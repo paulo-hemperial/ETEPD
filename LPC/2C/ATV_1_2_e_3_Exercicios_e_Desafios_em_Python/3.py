@@ -1,5 +1,4 @@
-##################vermeio
-n1 = int(input('Digite um numbero: '))
-n2 = int(input('Digite otro numbrero: '))
+n1 = int(input('Digite um número: '))
+n2 = int(input('Digite otro número: '))
 soma = n1 + n2
-print('A soma dos dois números são ', soma)
+print('A soma dos dois números são iguais a ', soma)
